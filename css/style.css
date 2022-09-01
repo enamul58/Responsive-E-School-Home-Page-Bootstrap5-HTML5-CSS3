@@ -349,4 +349,16 @@ footer .row {
   #navbarSupportedContent {
     transition: height 0.5s ease;
   }
+  .testimonial-section p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  footer p {
+    font-size: 14px;
+    line-height: 26px;
+  }
+  footer ul li {
+    font-size: 14px;
+    line-height: 26px;
+  }
 }
